@@ -19,6 +19,7 @@ public class AppTest
     {
         super( testName );
         int a;
+        int b;
     }
 
     /**
